@@ -14,27 +14,19 @@ title: Brigham Young's Resume
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.7 Major GPA
 
 
 ## Related Experience
 
-### Internships
+`JAN 2014 – DEC 2014 & JAN 2017 – APRIL 2017`
+__PRODUCTION SUPERVISOR__, NICOLAS PLANTS, RSA
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+I ordered, stock managed fleet of various vehicles and Production of products and materials. After serving my mission. I returned for three months to design and maintain his new website.
+__NICOLAS BRENTOT (CEO)__, +27 83 229 2697
 
 ### Data Science Lead
 
