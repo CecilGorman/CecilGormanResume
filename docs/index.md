@@ -2,7 +2,7 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# CECIL GORMAN
+# CECIL GORMAN is the human
 
 <div id="webaddress">
 <a href="CecilGorman@byui.edu ">CecilGorman@byui.edu </a>
