@@ -7,7 +7,7 @@ title: Brigham Young's Resume
 <div id="webaddress">
 <a href="CecilGorman@byui.edu ">CecilGorman@byui.edu </a>
 | <a href="http://www.linkedin.com/in/cecil-gorman-b28959144">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/CecilGorman">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
