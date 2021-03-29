@@ -18,6 +18,8 @@ title: Brigham Young's Resume
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.7 Major GPA
+- Hall Foundation Grant Recipient
+- Thomas E. Ricks Recipient
 
 
 ## Related Experience
@@ -28,49 +30,37 @@ __PRODUCTION SUPERVISOR__, NICOLAS PLANTS, RSA
 I ordered, stock managed fleet of various vehicles and Production of products and materials. After serving my mission. I returned for three months to design and maintain his new website.
 __NICOLAS BRENTOT (CEO)__, +27 83 229 2697
 
-### Data Science Lead
+`MAY 2017 – JAN 2018`
+__CLEARANCE CLERK__, DEBT RESCUE, RSA
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+I am a registered Debt Councilor with the NCR. I began in Legal, preparing clients to go to court. I then moved over to Finance to assist in getting Clearances Issued. I mediated with Clients, Creditors and Credit Bureaus to remove negligent information. I was awarded the Quarterly award in my first quarter for creating a new work flow that drastically improved our clearance rate and measure progress.
+__CHRIS SHUMBA (DEPARTMENT MANAGER)__, +27 86 112 3644
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`FEB 2018 – DECEMBER 2019`
+__PROJECT MANAGER__, RETAIL SOLUTIONS, RSA
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+I assisted in managing staff for two Massmart stores in Centurion, including Builders and Makro. My roles include recruitment, training, management, payroll, and disciplinary action, including initiating hearings. I started and operated the Port Elizabeth Branch, trained, and handed over the branch to a successor before coming to BYU-I in December of 2019.
+__JENNY TYLER (DIRECTOR)__, +27 83 325 4286
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`JANUARY 2020 - PRESENT`
+__LIT LMS SPECIALIST__, BRIGHAM YOUNG UNIVERSITY - IDAHO, USA
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+I am currently employed the Online Department of Brigham Young University Idaho as an LMS Specialist. We assist with ADS requirements for courses and conduct project on Canvas for each semester. While on campus I work part time, off track I assist as a project lead on a full-time basis.
+__COREY MOORE (DEPARTMENT MANAGER)__, +1 208 206 3552
 
 
-## Service and Work History
+## Service
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2014-2017`
+__Service Missionary__, MaryLand Baltimore, USA
 
+• Gained experience in cold-call techniques and interpersonal skills with a 70+ hour work week.
 
-`2023-2025`
-__Service Missionary__, South Africa
+• Provided effective, interactive training to large groups consecutively.
 
+• Appointed to lead, compile reports, track and provide motivation to groups of up to 12 representatives.
 
+• Developed strong interpersonal and conflict resolution skills with a diverse team from multiple diffirent cultures.
 
 <!-- ### Footer
 
