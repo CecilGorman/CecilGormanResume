@@ -1,0 +1,148 @@
+<table
+    border="0"
+    cellspacing="0"
+    cellpadding="0"
+    summary="Layout table for name, contact info, and objective"
+    width="100%"
+>
+    <tbody>
+        <tr>
+            <td width="624" valign="top">
+                <p>
+                    Cecil Gorman
+                </p>
+                <p>
+                    277 East 2<sup>nd</sup> South, Rexburg, ID, 83440 | (208)
+                    701 5335
+                </p>
+                <p>
+                    CecilGorman@byui.edu |
+                    <a href="http://www.linkedin.com/in/cecil-gorman-b28959144">
+                        Linked
+                    </a>
+                    In
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<h1>
+    Education
+</h1>
+<table
+    border="1"
+    cellspacing="0"
+    cellpadding="0"
+    summary="Education layout table"
+    width="99%"
+>
+    <tbody>
+        <tr>
+            <td width="619" valign="top">
+                <h3>
+                    November 2018 - Present
+                </h3>
+                <h2>
+                    Winter semester, Brigham Young University - Idaho
+                </h2>
+                <p>
+                    I started studying online while in South Africa, was
+                    awarded a scholarship through the Hall Foundation and am
+                    currently a sophomore with a 3.674 GPA and loving it. I am
+                    currently Majoring in Business Analytics.
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<h1>
+    Experience
+</h1>
+<table
+    border="1"
+    cellspacing="0"
+    cellpadding="0"
+    summary="Experience layout table"
+    width="99%"
+>
+    <tbody>
+        <tr>
+            <td width="619" valign="top">
+                <h3>
+                    Jan 2014 &#8211; Dec 2014 &amp; JAN 2017 &#8211; APRIL 2017
+                </h3>
+                <h2>
+                    Production Supervisor, Nicolas Plants
+                </h2>
+                <p>
+                    I ordered, stock managed fleet of various vehicles and
+                    Production of products and materials. After serving my
+                    mission. I returned for three months to design and maintain
+                    his new website.
+                </p>
+                <h2>
+                    Nicolas Brentot (CEO), +27 83 229 2697
+                </h2>
+            </td>
+        </tr>
+        <tr>
+            <td width="619" valign="top">
+                <h3>
+                    May 2017 &#8211; Jan 2018
+                </h3>
+                <h2>
+                    Clearance Clerk, Debt Rescue
+                </h2>
+                <p>
+                    I have completed my Debt Counseling course and am a
+                    registered Debt Councilor with the NCR. I began in Legal,
+                    preparing clients to go to court. I then moved over to
+                    Finance to assist in getting Clearances Issued. I mediate
+                    with Clients, Creditors and Credit Bureaus to remove
+                    negligent information. I won the quarterly awards as a
+                    newcomer in Payments, where I currently remain the top
+                    performer in my field.
+                </p>
+                <h2>
+                    Chris Shumba (Department Manager), +27 86 112 3644
+                </h2>
+                <h3>
+                    Feb 2018 &#8211; December 2019
+                </h3>
+                <h2>
+                    Project Manager, Retail Solutions
+                </h2>
+                <p>
+                    I assisted in managing staff for Massmart stores in
+                    Centurion, including Builders and Makro. My roles include
+                    recruitment, training, management, payroll, and
+                    disciplinary action, including initiating hearings. My wife
+                    and I started and operated the Port Elizabeth Branch,
+                    trained, and handed over the branch to a successor before
+                    coming to BYU-I in December of 2019.
+                </p>
+                <h2>
+                    Jenny Tyler (Director) +27 83 325 4286
+                </h2>
+                <h2>
+                </h2>
+                <h3>
+                    January 2020 - Present
+                </h3>
+                <h2>
+                    LIT LMS Specialist, Brigham Young University - Idaho
+                </h2>
+                <p>
+                    I am currently employed the Online Department of Brigham
+                    Young University Idaho as an LMS Specialist. We assist with
+                    ADS requirements for courses and conduct project on Canvas
+                    for each semester. While on campus I work part time, off
+                    track I assist as a project lead on a full-time basis.
+                </p>
+                <h2>
+                    Corey Moore (Department Manager) +1 208 206 3552
+                </h2>
+            </td>
+        </tr>
+    </tbody>
+</table>
