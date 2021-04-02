@@ -17,7 +17,7 @@ title: Brigham Young's Resume
 `Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.7 Major GPA
+- Major in Business Analytics
 - Hall Foundation Grant Recipient
 - Thomas E. Ricks Recipient
 
